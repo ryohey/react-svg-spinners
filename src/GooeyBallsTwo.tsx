@@ -1,5 +1,5 @@
 import React, { SVGProps } from "react";
-import { stringDurationToFloat } from "../util";
+import { stringDurationToFloat } from "./util";
 
 export default function GooeyBallsTwo({
   width = 24,

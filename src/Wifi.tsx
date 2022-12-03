@@ -1,5 +1,5 @@
 import React, { SVGProps } from "react";
-import { stringDurationToFloat } from "../util";
+import { stringDurationToFloat } from "./util";
 
 const FACTOR = 0.25 / 0.001;
 
